@@ -1,5 +1,5 @@
 from screen import Screen
-from player import Player
 
+# Add the player
 # Initialize the Screen
 screen = Screen()
