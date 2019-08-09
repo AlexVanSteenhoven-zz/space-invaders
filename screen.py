@@ -1,8 +1,9 @@
 import turtle as t
 import os
+from player import Player
 
 
-class Screen:
+class Screen(Player):
     # Setup the Screen
     win = t.Screen()
     win.bgcolor('black')
